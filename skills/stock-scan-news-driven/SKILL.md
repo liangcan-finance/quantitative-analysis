@@ -1,5 +1,5 @@
 ---
-name: stock-scan-news-drivern
+name: stock-scan-news-driven
 description: 事件驱动投资分析模型。对未来或已发生的事件进行推演，评估事件对市场总量、行业结构和个股的影响，结合当前市场位置筛选受事件驱动的核心标的，输出事件影响分析报告和可投资股票池。
 ---
 

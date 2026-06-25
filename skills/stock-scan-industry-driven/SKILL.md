@@ -1,5 +1,5 @@
 ---
-name: stock-scan-based-industrial-chain
+name: stock-scan-industry-driven
 description: 产业驱动分析投资模型。以点带面的产业主题选择及产业链分析框架。适用于产业高速增长期的行业投资，通过龙头公司研究确定产业链增长空间，识别产能瓶颈，筛选核心投资标的。输出可投资股票池及价值分析报告。
 ---
 
